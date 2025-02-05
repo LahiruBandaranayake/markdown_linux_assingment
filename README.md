@@ -31,3 +31,9 @@
 
 ### Images
 ![image](https://dummyimage.com/600x400/000/fff)
+
+
+# Assignment Step 2 and 3
+![image](image/image1.png)
+![image](image/image2.png)
+
